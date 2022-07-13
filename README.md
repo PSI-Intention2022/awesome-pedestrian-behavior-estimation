@@ -11,8 +11,6 @@ Papers and resources collection about pedestrian behavior estimation
   - [Top-down view](#top-down-view)
 - [Datasets](#datasets)
   - [Vision](#vision)
-  - [Multi-sensor](#multi-sensor)
-  - [Simulator](#simulator)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
 - [Other Resources](#other-resources)
@@ -69,12 +67,12 @@ Papers and resources collection about pedestrian behavior estimation
 - VIRAT (2011 CVPR) [[Data]](https://viratdata.org) [[Paper]](http://www.cs.columbia.edu/~vondrick/vatic/virat.pdf)
 - TownCentre (2009) [[Data]](https://exposing.ai/oxford_town_centre/)
 
-## Multi-sensor
+**Multi-sensor**
 - L-CAS (2018) [[Data]](https://lcas.lincoln.ac.uk/wp/research/data-sets-software/l-cas-multisensor-people-dataset/)
 - CitySpaces [[Data]](https://www.cityscapes-dataset.com/dataset-overview/)
 - KITTI 360 (2012) [[Data]](http://www.cvlibs.net/datasets/kitti/)
 
-## Simulator
+**Simulator**
 - The Garden of Forking Paths (2020) [[Data]](https://next.cs.cmu.edu/multiverse/index.html) [[Paper (2020 CVPR)]](https://arxiv.org/abs/1912.06445) [[Paper (2020 ECCV)]](https://arxiv.org/abs/2004.02022)
 
 # Library
