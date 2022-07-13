@@ -8,6 +8,7 @@ Papers and resources collection about pedestrian behavior estimation
 - [Contents](#contents)
 - [Papers](#papers)
   - [Ego-view](#ego-view)
+  - [Top-down view](#top-down-view)
 - [Datasets](#datasets)
   - [Vision](#vision)
   - [Multi-sensor](#multi-sensor)
@@ -15,6 +16,7 @@ Papers and resources collection about pedestrian behavior estimation
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
 - [Other Resources](#other-resources)
+- [Non-pedestrian Trajectory](#non-pedestrian-trajectory)
 
 # Papers
 
@@ -36,6 +38,15 @@ Papers and resources collection about pedestrian behavior estimation
 
 
 **Preprints**
+
+## Top-down view
+- End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_End-to-End_Trajectory_Distribution_Prediction_Based_on_Occupancy_Grid_Maps_CVPR_2022_paper.pdf)
+- Remember Intentions: Retrospective-Memory-based Trajectory Prediction [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Remember_Intentions_Retrospective-Memory-Based_Trajectory_Prediction_CVPR_2022_paper.pdf)
+- Non-Probability Sampling Network for Stochastic Human Trajectory Prediction [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf)
+- Human Trajectory Prediction with Momentary Observation [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)
+- Whose Track Is It Anyway? Improving Robustness to Tracking Errors with Affinity-based Trajectory Prediction [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Weng_Whose_Track_Is_It_Anyway_Improving_Robustness_to_Tracking_Errors_CVPR_2022_paper.pdf)
+- How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Monti_How_Many_Observations_Are_Enough_Knowledge_Distillation_for_Trajectory_Forecasting_CVPR_2022_paper.pdf)
+- GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupNet_Multiscale_Hypergraph_Neural_Networks_for_Trajectory_Prediction_With_Relational_CVPR_2022_paper.pdf)
 
 # Datasets
 ## Vision
@@ -73,3 +84,9 @@ Papers and resources collection about pedestrian behavior estimation
 # Other Resources
 
 - "Trajectory Prediction Papers" [[GitHub]](https://github.com/aras62/vision-based-prediction)
+
+# Non-pedestrian Trajectory
+- MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MUSE-VAE_Multi-Scale_VAE_for_Environment-Aware_Long_Term_Trajectory_Prediction_CVPR_2022_paper.pdf)
+- M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_M2I_From_Factored_Marginal_Trajectory_Prediction_to_Interactive_Prediction_CVPR_2022_paper.pdf)
+- On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_On_Adversarial_Robustness_of_Trajectory_Prediction_for_Autonomous_Vehicles_CVPR_2022_paper.pdf)
+- Neural Prior for Trajectory Estimation [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Prior_for_Trajectory_Estimation_CVPR_2022_paper.pdf)
